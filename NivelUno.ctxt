@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=NivelUno
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nivel_1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NivelUno()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nivel_1.\r\n\ \r\n
+comment10.params=
+comment10.target=int\ getNumObs()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ restart()
+comment5.params=start\ end
+comment5.target=int\ getRandomNum(int,\ int)
+comment6.params=
+comment6.target=void\ agregaObs()
+comment7.params=
+comment7.target=void\ quitaObs()
+comment8.params=
+comment8.target=void\ restaVid()
+comment9.params=num
+comment9.target=void\ setNumObs(int)
+numComments=11
